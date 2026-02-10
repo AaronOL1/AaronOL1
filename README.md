@@ -1,9 +1,23 @@
 <div align="center">
-  <h1>Hi, I'm Aaron 👋</h1>
-  <h3>Economist 🧠 & Data Analyst 📊</h3>
-  <p><b>Creator of "El Analista de la Vida"</b></p>
   
-   <img width="180" height="180" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Aaron+👋;Economist+%26+Data+Analyst+🧠;Creator+of+%22El+Analista+de+la+Vida%22" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <p>
+    <a href="https://www.linkedin.com/in/aaronolmedo/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    </a>
+    <a href="mailto:tu_correo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    </a>
+  </p>
+
+  <br>
+
+<img width="140" height="140" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" alt="Google Data Analytics Badge">
   
   <br>
 
@@ -17,27 +31,24 @@
   </p>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronOL1&theme=dark&hide_border=true&card_height=100" height="120" alt="Aaron's Streak" />
-
 </div>
 
 <hr>
 
-### 🔭 Current Projects
+### 🔭 Current Projects & Research
 
 #### 1. 🇵🇪 Macroeconomic Policy Proposal: The Peru Case
-* **Focus:** Transforming academic research into Data Visualization.
-* **Stack:** Python (Pandas) + Power BI.
-* 
+* **Focus:** Transforming theoretical research into a quantitative, visual analysis (Data-Driven).
+* **Status:** Data Cleaning & Modeling.
+* **Tools:** Python (Pandas) + Power BI.
+
 #### 2. 🧩 Optimization of Matching Markets (Urban Case Study)
 * **Objective:** Analyzing preference formation and selection efficiency in non-monetary social markets.
 * **Status:** 🏗️ **Data Collection Phase** (Field Research).
 * **Goal:** To model interaction patterns using Game Theory principles.
 
-#### 3. 📚 SQL Learning Path (Open Source)
-* **Focus:** Practical exercises and documentation for students.
-
-#### 4. 📊 Google Analytics Case Studies
-* **Focus:** Advanced storytelling with R & Tableau.
+#### 3. 📚 SQL Learning Path (Open Source Education)
+* **Focus:** Documenting complex queries and database logic for future students.
 
 <hr>
 
@@ -45,3 +56,6 @@
 - ✅ **Google Data Analytics Professional Certificate**
 - 🔄 **Python for Data Science** (Deep Dive)
 - 🎯 **Microsoft PL-300** (Power BI)
+
+
+ 
