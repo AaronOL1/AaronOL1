@@ -1,25 +1,25 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Aaron+👋;Economist+%26+Data+Analyst+🧠;Creator+of+%22El+Analista+de+la+Vida%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aaron;Economist+%26+Data+Analyst;Creator+of+El+Analista+de+la+Vida" alt="Typing SVG" />
   </a>
 
   <br>
 
   <p>
-    <a href="https://www.linkedin.com/in/aaronolmedo/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <a href="https://www.linkedin.com/in/TU_USUARIO_AQUI/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
     </a>
-    <a href="mailto:tu_correo@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    &nbsp; <a href="mailto:tu_correo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
     </a>
   </p>
 
   <br>
 
-<img width="140" height="140" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" alt="Google Data Analytics Badge">
+  <img img width="130" height="130" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" width="130" alt="Google Badge">
   
-  <br>
+  <br><br>
 
   <h3>🛠️ Tech Stack</h3>
   <p>
@@ -31,6 +31,7 @@
   </p>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronOL1&theme=dark&hide_border=true&card_height=100" height="120" alt="Aaron's Streak" />
+
 </div>
 
 <hr>
@@ -56,6 +57,3 @@
 - ✅ **Google Data Analytics Professional Certificate**
 - 🔄 **Python for Data Science** (Deep Dive)
 - 🎯 **Microsoft PL-300** (Power BI)
-
-
- 
