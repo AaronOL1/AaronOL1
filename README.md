@@ -3,7 +3,7 @@
   <h3>Economist 🧠 & Data Analyst 📊</h3>
   <h4>Creator of "El Analista de la Vida" (The Life Analyst)</h4>
   
-  <img src="C:\Users\User\OneDrive\Escritorio\GOOGLE CERTIFICATION - DATA ANALIST\CERTIFICADOS\google-data-analytics-professional-certificate-v-3 (1).png" width="180" alt="Google Data Analytics Badge">
+  <img src="<img width="720" height="720" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" />">
   
   <br><br>
 
@@ -47,3 +47,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaronOL1&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
 </div>
+
+
+
