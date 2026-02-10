@@ -7,6 +7,9 @@
   
   <br><br>
 
+  <h3>🏆 Achievements</h3>
+  <img src="https://github-profile-trophies.vercel.app/?username=AaronOL1&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
   <h3>🛠️ Tech Stack & Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,8 +46,9 @@
 - 📅 **Future:** Google Advanced Data Analytics.
 
 ---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronOL1&show_icons=true&theme=radical&hide_border=true" width="400" alt="Aaron's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronOL1&theme=dark&hide_border=true" width="400" alt="Aaron's GitHub Streak" />
 </div>
 
 
