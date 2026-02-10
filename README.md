@@ -1,55 +1,46 @@
 <div align="center">
-  <h1>Hi there, I'm Aaron 👋</h1>
+  <h1>Hi, I'm Aaron 👋</h1>
   <h3>Economist 🧠 & Data Analyst 📊</h3>
-  <h4>Creator of "El Analista de la Vida" (The Life Analyst)</h4>
+  <p><b>Creator of "El Analista de la Vida"</b></p>
   
-  <img width="180" height="180" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" />
+   <img width="180" height="180" alt="google-data-analytics-professional-certificate-v-3 (1)" src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" />
   
-  <br><br>
+  <br>
 
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophies.vercel.app/?username=AaronOL1&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-  <h3>🛠️ Tech Stack & Tools</h3>
+  <h3>🛠️ Tech Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25"/>
   </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronOL1&theme=dark&hide_border=true&card_height=100" height="120" alt="Aaron's Streak" />
+
 </div>
 
----
+<hr>
 
-### 🔭 Current Projects & Research
+### 🔭 Current Projects
 
-#### 1. 🇵🇪 Macroeconomic Policy Proposal: The Peru Case (Data-Driven)
-* **Objective:** Transforming theoretical academic research into a quantitative, visual analysis using real economic datasets.
-* **Status:** Data Cleaning & Modeling.
+#### 1. 🇵🇪 Macroeconomic Policy Proposal: The Peru Case
+* **Focus:** Transforming academic research into Data Visualization.
 * **Stack:** Python (Pandas) + Power BI.
+#### 2. 💘 Behavioral Economics: Market Dynamics in Modern Dating
+* **Objective:** Microeconomic analysis of supply and demand in the local dating market (Quito Case Study).
+* **Status:** 🏗️ **Data Collection Phase** (Field Research).
+* **Goal:** To model social interaction patterns using Game Theory and Data Viz.
 
-#### 2. 📚 SQL Learning Path (Open Source Education)
-* **Objective:** Step-by-step documentation of complex SQL queries and database logic.
-* **Focus:** Practical exercises and resources for future students.
+#### 3. 📚 SQL Learning Path (Open Source)
+* **Focus:** Practical exercises and documentation for students.
 
-#### 3. 📊 Google Analytics Case Studies
-* **Objective:** Practical application of Google libraries for advanced data visualization and storytelling.
+#### 4. 📊 Google Analytics Case Studies
+* **Focus:** Advanced storytelling with R & Tableau.
 
----
+<hr>
 
-### 🎯 2026 Learning Roadmap
-
-- ✅ **Completed:** Google Data Analytics Professional Certificate.
-- 🔄 **In Progress:** Python for Data Science (Deep Dive).
-- 🎯 **Next Goal:** Microsoft Certified: Power BI Data Analyst Associate (**PL-300**).
-- 📅 **Future:** Google Advanced Data Analytics.
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronOL1&theme=dark&hide_border=true" width="400" alt="Aaron's GitHub Streak" />
-</div>
-
-
-
+### 🎯 Roadmap 2026
+- ✅ **Google Data Analytics Professional Certificate**
+- 🔄 **Python for Data Science** (Deep Dive)
+- 🎯 **Microsoft PL-300** (Power BI)
