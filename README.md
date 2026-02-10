@@ -27,10 +27,11 @@
 #### 1. 🇵🇪 Macroeconomic Policy Proposal: The Peru Case
 * **Focus:** Transforming academic research into Data Visualization.
 * **Stack:** Python (Pandas) + Power BI.
-#### 2. 💘 Behavioral Economics: Market Dynamics in Modern Dating
-* **Objective:** Microeconomic analysis of supply and demand in the local dating market (Quito Case Study).
+* 
+#### 2. 🧩 Optimization of Matching Markets (Urban Case Study)
+* **Objective:** Analyzing preference formation and selection efficiency in non-monetary social markets.
 * **Status:** 🏗️ **Data Collection Phase** (Field Research).
-* **Goal:** To model social interaction patterns using Game Theory and Data Viz.
+* **Goal:** To model interaction patterns using Game Theory principles.
 
 #### 3. 📚 SQL Learning Path (Open Source)
 * **Focus:** Practical exercises and documentation for students.
