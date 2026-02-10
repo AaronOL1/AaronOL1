@@ -49,10 +49,10 @@
 * **Status:** 🏗️ **Data Collection Phase** (Field Research).
 * **Goal:** To model interaction patterns using Game Theory principles.
 
-#### 3. 🚴‍♂️ Urban Mobility Analysis: Cyclistic Bike-Share
-* **Objective:** Analysis of customer behavior patterns to convert casual riders into members.
-* **Tools:** R (Tidyverse) & Data Visualization.
+#### 3. 🚴‍♂️ Urban Mobility Analysis: Cyclistic Bike-Share (Chicago)
 * **Context:** Google Data Analytics Capstone Project.
+* **Objective:** Analyzed historical trip data to identify behavioral differences between casual riders and annual members to drive subscription growth.
+* **Stack:** SQL (Data Querying) + Python + Power BI (Dashboarding).
 
 #### 4. 📚 SQL Learning Path (Open Source Education)
 * **Focus:** Documenting complex queries and database logic for future students.
