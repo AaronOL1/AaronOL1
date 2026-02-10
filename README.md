@@ -16,14 +16,11 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
     </a>
   </p>
-  
-  <br>
+
 
   <sub>🏆 Featured Certification</sub>
   <br>
   <img src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" width="150" alt="Google Data Analytics Badge">
-  
-  <br>
 
   <h3>🛠️ Tech Stack</h3>
   <p>
