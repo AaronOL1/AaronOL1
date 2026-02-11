@@ -8,11 +8,11 @@
   <h4>Creator of "El Analista de la Vida"</h4>
 
   <p>
-    <a href="https://www.linkedin.com/in/TU_USUARIO_AQUI/" target="_blank">
+    <a href="https://www.linkedin.com/in/aaronolmedo/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
     </a>
     &nbsp; 
-    <a href="mailto:tu_correo@gmail.com">
+    <a href="mailto:aaron.olmedo.99@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
     </a>
   </p>
