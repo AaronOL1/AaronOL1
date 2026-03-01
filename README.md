@@ -5,7 +5,6 @@
   </a>
 
   <h3 style="margin-top: -5px;">Economist 🧠 & Data Analyst 📊</h3>
-  <h4>Creator of "El Analista de la Vida"</h4>
 
   <p>
     <a href="https://www.linkedin.com/in/aaronolmedo/" target="_blank">
