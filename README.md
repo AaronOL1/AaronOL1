@@ -56,6 +56,11 @@
 #### 4. 📚 SQL Learning Path (Open Source Education)
 * **Focus:** Documenting complex queries and database logic for future students.
 
+#### 5. 🏎️ Automotive Pricing Engine & Profitability Simulator
+* **Focus:** End-to-end B2B Data Engineering & Pricing Strategy pipeline.
+* **Objective:** Solved supplier data chaos and modeled margin leakage to simulate dynamic pricing strategies.
+* **Stack:** SQL Server (ETL/T-SQL), Power BI (DAX, Star Schema, What-If Parameters).
+
 <hr>
 
 ### 🎓 Education & Credentials
