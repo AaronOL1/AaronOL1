@@ -16,7 +16,6 @@
     </a>
   </p>
 
-
   <sub>🏆 Featured Certification</sub>
   <br>
   <img src="https://github.com/user-attachments/assets/7cb5a2af-5f55-4973-ae0f-418f7bd09627" width="150" alt="Google Data Analytics Badge">
