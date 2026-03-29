@@ -72,18 +72,12 @@
 * **Objective:** Analyzing preference formation and selection efficiency in non-monetary social markets (Quito).
 * **Status:** 🏗️ Data Collection Phase (Field Research).
 
-<hr>
-### 🔭 Economic Research & Academic Foundations
+### 🎓 Education & Credentials
 
-#### 4. 🚴‍♂️ Urban Mobility Behavior: Cyclistic Bike-Share (Google Capstone)
-* **Objective:** Analyzed historical trip data to identify behavioral differences between casual riders and annual members to drive subscription growth.
-* **Stack:** SQL (Data Querying) + Python (Data Visualization) + Power BI (Dashboarding).
+> *Academic background combining Economic Theory, Econometrics & Business Intelligence.*
 
-#### 5. 🇵🇪 Macroeconomic Policy Proposal: The Peru Case
-* **Focus:** Transforming theoretical economic research into quantitative, visual analysis to guide policy decisions.
-* **Status:** Data Cleaning & Modeling.
-* **Stack:** Python (Pandas) + Power BI.
+* **Economist (Degree)** | 🏛️ *Universidad Técnica Particular de Loja (UTPL)*
+    * Focus: **Development & Territories**, Macroeconomics & Applied Econometrics.
 
-#### 6. 🧩 Optimization of Matching Markets (Urban Case Study)
-* **Objective:** Analyzing preference formation and selection efficiency in non-monetary social markets (Quito).
-* **Status:** 🏗️ Data Collection Phase (Field Research).
+* **Google Data Analytics Professional Certificate** | 🏅 *Coursera*
+    * Skills: SQL, Data Cleaning, Visualization & Problem Solving.
