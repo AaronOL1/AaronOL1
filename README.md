@@ -39,14 +39,12 @@
 </div>
 
 <hr>
-
 ### 💼 Business Intelligence & Consulting Projects
 
-#### 1. 🏎️ B2B Pricing Engine & Profitability Strategy (AutoParts Latam Case)
-* **Business Problem:** Severe margin dilution in wholesale channels due to misaligned discount structures and obsolete inventory.
-* **The Solution:** Developed a dynamic pricing strategy using "bundling" (Venta Atada) and logical system blockers to protect the corporate margin (45%).
-* **Impact:** Modeled scenarios to recover cash flow and stabilize gross margins using carrying-cost financial logic.
-* **Stack:** Advanced Excel (Financial Modeling), SQL (ETL logic), Data Storytelling.
+#### 1. 🏎️ Automotive B2B Pricing Strategy & Profitability Engine
+* **Business Problem:** Severe margin dilution in wholesale channels due to misaligned discount structures, unauthorized sales rep discounts, and obsolete inventory.
+* **The Solution:** Developed an end-to-end pricing engine and interactive Power BI dashboard to isolate margin leakage, paired with a strategic bundling model ("Venta Atada") to protect the 45% corporate margin.
+* **Stack:** SQL Server (ETL/Landed Costs), Power BI (DAX, Margin Waterfall, What-If Parameters), Advanced Excel (Financial Modeling).
 
 #### 2. 🏢 Real Estate Market Intelligence (Capital & Concreto)
 * **Objective:** Structuring property databases to calculate real square-meter prices, hidden profitability, and surplus value projections in the urban real estate market (Quito).
@@ -54,11 +52,27 @@
 * **Goal:** To solve information asymmetry and provide data-driven technical analysis for homebuyers and investors.
 
 #### 3. 📚 Data Analytics Mentoring & SQL Open Source
-* **Focus:** Documenting complex database logic and business queries for future analysts. Translating syntax into business value (e.g., using `LEFT JOIN` for data auditing).
+* **Focus:** Documenting complex database logic, DML/DDL architecture, and business queries for future analysts. Translating syntax into business value (e.g., using `LEFT JOIN` for data auditing).
 * **Status:** Active continuous repository (Study Guide).
 
 <hr>
 
+### 🔭 Economic Research & Academic Foundations
+
+#### 4. 🚴‍♂️ Urban Mobility Behavior: Cyclistic Bike-Share (Google Capstone)
+* **Objective:** Analyzed historical trip data (Chicago) to identify behavioral differences between casual riders and annual members to drive subscription growth.
+* **Stack:** SQL (Data Querying) + Python (Data Visualization) + Power BI (Dashboarding).
+
+#### 5. 🇵🇪 Macroeconomic Policy Proposal: The Peru Case
+* **Focus:** Transforming theoretical economic research into quantitative, visual analysis to guide policy decisions.
+* **Status:** Data Cleaning & Modeling.
+* **Stack:** Python (Pandas) + Power BI.
+
+#### 6. 🧩 Optimization of Matching Markets (Urban Case Study)
+* **Objective:** Analyzing preference formation and selection efficiency in non-monetary social markets (Quito).
+* **Status:** 🏗️ Data Collection Phase (Field Research).
+
+<hr>
 ### 🔭 Economic Research & Academic Foundations
 
 #### 4. 🚴‍♂️ Urban Mobility Behavior: Cyclistic Bike-Share (Google Capstone)
