@@ -50,6 +50,7 @@
 * **Objective:** Structuring property databases to calculate real square-meter prices, hidden profitability, and surplus value projections in the urban real estate market (Quito).
 * **Status:** 📝 **Planning & Architecture Phase** (Defining data sources and ETL strategy).
 * **Goal:** To solve information asymmetry and provide data-driven technical analysis for homebuyers and investors.
+* **Status:** IN PROCESS.
 
 #### 3. 📚 Data Analytics Mentoring & SQL Open Source
 * **Focus:** Documenting complex database logic, DML/DDL architecture, and business queries for future analysts. Translating syntax into business value (e.g., using `LEFT JOIN` for data auditing).
