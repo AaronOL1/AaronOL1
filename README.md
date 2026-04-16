@@ -81,4 +81,4 @@
     * Focus: **Development & Territories**, Macroeconomics & Applied Econometrics.
 
 * **Google Data Analytics Professional Certificate** | 🏅 *Coursera*
-    * Skills: SQL, Data Cleaning, Visualization & Problem 
+    * Skills: SQL, Data Cleaning, Visualization & Problem Solving.
